@@ -1,0 +1,23 @@
+{
+  "name": "botzap-base",
+  "version": "1.0.0",
+  "description": "Base de conexão WhatsApp via QR Code - por SyxDev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "modder4",
+    "vitinhodev"
+  ],
+  "author": "SyxDev",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "pino": "^8.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
